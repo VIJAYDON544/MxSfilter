@@ -8,8 +8,8 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/Acdsupportbot>ACDRIPS</a>
-✯ Best Friend : <a herf=https://telegram.dog/benzmovies>Benzmawa</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://telegram.dog/TELUGUHACKERS22>MovieXstream</a>
+✯ Best Friend : <a herf=https://moviexstream.42web.io/>Dev ra Unga</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: Own system......
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: Localhost
 ✯ Mʏ Sᴇʀᴠᴇʀ: serveremledhu.com
@@ -18,7 +18,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=sourcecodeemled.com</a>
 
-<b>ᴅᴇᴠ: <a herf=https://t.me/Benzmovies>Benzmawa</a></b>"""
+<b>ᴅᴇᴠ: <a herf=https://moviexstream.42web.io/>Master</a></b>"""
 
     FILE_TXT = """<b>➤ Hᴇʟᴘ Fᴏʀ Fɪʟᴇ Sᴛᴏʀᴇ</b>
 
@@ -29,7 +29,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ➪ /batch › Tᴏ Cʀᴇᴀᴛᴇ Lɪɴᴋ Fᴏʀ Mᴜʟᴛɪᴘʟᴇ Mᴇᴅɪᴀ
 
 <b>⪼ EG:</b>
-</code>/batch https://t.me/MusicMechanics</code>"""
+</code>/batch https://moviexstream.42web.io/</code>"""
   
     FILTER_TXT = "Sᴇʟᴇᴄᴛ Wʜɪᴄʜ Oɴᴇ Yᴏᴜ Wᴀɴᴛ...✨"
     
@@ -232,7 +232,7 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
  🎛 Countries : <code>{countries}</code>  
   
  Requested by : {message.from_user.mention}  
- Powered By @MusicMechanics"""
+ Powered By https://moviexstream.42web.io/"""
    
   
  
