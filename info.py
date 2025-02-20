@@ -44,8 +44,18 @@ START_MESSAGE = environ.get('START_MESSAGE', script.START_TXT)
 BUTTON_LOCK_TEXT = environ.get("BUTTON_LOCK_TEXT", script.BUTTON_LOCK_TEXT)
 FORCE_SUB_TEXT = environ.get('FORCE_SUB_TEXT', script.FORCE_SUB_TEXT)
 
-WELCOM_PIC = environ.get("WELCOM_PIC", "https://moviexstream.42web.io/wp-content/uploads/2023/10/Layer-2.png2_.png")
-WELCOM_TEXT = environ.get("WELCOM_TEXT", script.WELCOM_TEXT)
+WELCOM_PIC = environ.get(
+    "WELCOM_PIC",
+    "https://moviexstream.42web.io/wp-content/uploads/2023/10/Layer-2.png2_.png"  # Replace with a valid image URL
+)
+WELCOM_TEXT = environ.get(
+    "WELCOM_TEXT",
+    "👋 **Welcome to the Bot!**\n\n"
+    "I’m here to help you find and manage files easily. 📂\n"
+    "🔍 Use the search feature to find files quickly.\n"
+    "📥 Download files instantly without storing them permanently.\n\n"
+    "If you need help, type /help or contact support."
+)
 PMFILTER = is_enabled(environ.get('PMFILTER', "True"), True)
 G_FILTER = is_enabled(environ.get("G_FILTER", "True"), True)
 BUTTON_LOCK = is_enabled(environ.get("BUTTON_LOCK", "True"), True)
